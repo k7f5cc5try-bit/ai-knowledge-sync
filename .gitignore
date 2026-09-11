@@ -1,0 +1,6 @@
+config.local.json
+output/
+__pycache__/
+*.pyc
+*.lock
+.DS_Store

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="290" viewBox="0 0 680 290">
+  <rect width="680" height="290" fill="#f6f8fc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#172554">
+    <text x="340" y="52" font-size="26" font-weight="bold">Retrieval-Augmented Generation</text>
+    <rect x="35" y="108" width="160" height="74" rx="12" fill="#dbeafe"/>
+    <rect x="260" y="108" width="160" height="74" rx="12" fill="#dbeafe"/>
+    <rect x="485" y="108" width="160" height="74" rx="12" fill="#dbeafe"/>
+    <text x="115" y="153" font-size="20">Question</text>
+    <text x="340" y="153" font-size="20">Retrieve</text>
+    <text x="565" y="153" font-size="20">Generate</text>
+    <text x="340" y="239" font-size="16">Relevant sources provide context for the answer.</text>
+  </g>
+  <path d="M205 145h43m-10-7 10 7-10 7M430 145h43m-10-7 10 7-10 7" fill="none" stroke="#2563eb" stroke-width="3"/>
+</svg>
